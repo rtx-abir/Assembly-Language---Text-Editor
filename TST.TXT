@@ -1,0 +1,6 @@
+Hello There,
+welcome to Text Editor 3.20.8
+
+instructions to run:
+Press F3 to switch back and forth between insert and overtype mode. Esc also allows user to leave the editor at any time. Use F5 to save your file at any time. 
+Backspace, Enter, Tab, and Delete all works as intended. Make sure to have Tst.txt in your drive to open the file.
